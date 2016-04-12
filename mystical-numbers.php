@@ -16,7 +16,7 @@ function mystical_deactivate() {
   delete_option('the-numbers');
 }
 
-function mystical_footer {
+function mystical_footer() {
   echo "<p>" . get_option('the-numbers') . "</p>";
 }
 
