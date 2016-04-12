@@ -37,7 +37,11 @@ function mystical_install() {
   add_option('the-numbers','')
 }
 
+function mystical_deactivate() {
+  delete_option('the-numbers');
+}
 register_activation_hook(__FILE__,'mystical_install');
+register_deactivation_hook(__FILE__,'mystical_deactivate');
 
 
 ?>
