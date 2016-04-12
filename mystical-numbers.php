@@ -2,9 +2,9 @@
 {"en-days":[
 {"number":"1", 
 "title": "Time to start", 
-"text-guide":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique orci a urna ornare euismod. Ut in consequat diam. Duis vel commodo massa. Ut ac ipsum turpis. Sed suscipit hendrerit lobortis. Phasellus eleifend dolor vitae fermentum aliquam. Sed ac quam ultricies risus condimentum hendrerit ac sit amet nunc.",
-"text-phrase":"¡Abro nuevas puertas a la vida!",
-"text-phrase-guide":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque est et magna commodo, sed venenatis nisi sodales. Integer non mollis justo. Curabitur congue velit lectus, nec faucibus justo pharetra eu. Nam euismod consectetur diam, nec aliquet metus feugiat et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed a nisl sit amet nulla lacinia sodales. Ut vulputate, est tincidunt tristique bibendum, risus ex dapibus nisi, in interdum nibh lectus sed magna. Donec et quam eu magna sollicitudin auctor at quis lacus. Suspendisse semper risus eget justo imperdiet, a feugiat orci dapibus."},
+"text-guide":"Be independent. Do what you want to do. Go after what you want. Go to new places. Know new people. Test out new ideas. Start a new job. Stay active. Today is a great day for this first appointment. You will find that the men are important in your life today. Today be the leader. Trust in yourself and in your intuition. Be original and creative. Be ambitious. Feel your own power. Be brave. The anger, stubbornness, the impatience or concern can undermine your abilities. Look for the new.",
+"text-phrase":"I OPEN NEW DOORS TO LIFE!",
+"text-phrase-guide":"Today I put my trust in the Infinite wisdom within me to guide me and orient me in new areas of life. I am safe and secure as salgo, confident that the process of Life is there for me. Life supports me in all and each one of the steps in my way. I have food, home, shelter and love in ways that fill me with fully. I open my arms to the new, aware that soon I will be familiar. Knowing that all friends and lovers some time were strangers to me, I welcome new people to my life. Today is a glorious day for me."},
 {"number":"2",
 "title":"Cooperate",
 "text-guide":"",
