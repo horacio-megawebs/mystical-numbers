@@ -40,8 +40,13 @@ function mystical_install() {
 function mystical_deactivate() {
   delete_option('the-numbers');
 }
+
+function mystical_footer {
+  echo "<p>" . get_option('the-numbers') . "</p>";
+}
+
 register_activation_hook(__FILE__,'mystical_install');
 register_deactivation_hook(__FILE__,'mystical_deactivate');
-
+add_action('wp_footer', 'mystical_footer');
 
 ?>
